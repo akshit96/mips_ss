@@ -1,0 +1,10 @@
+a.out
+*.vcd
+
+secret/
+/readme.html
+
+*.sw[po]
+*~
+Thumbs.db
+Desktop.ini
